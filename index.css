@@ -18,14 +18,18 @@ h2 {
 
 }
 
-.head-text {
+div {
 
 }
 
-.head-title {
+div .head-text {
 
 }
 
-#text-info {
+div .head-title {
+
+}
+
+div .text-info {
     width: 800px;
 }
