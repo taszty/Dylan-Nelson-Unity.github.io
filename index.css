@@ -19,12 +19,12 @@ div {
     text-align: center;
 }
 
-    div #head-text {
+    div .head-text {
     }
 
-    div #head-title {
+    div .head-title {
     }
 
-    div#text-info {
+    div .text-info {
         width: 50%;
     }
