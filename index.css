@@ -4,6 +4,8 @@ head {
 
 body {
     text-align: center;
+    background-color: rgb(11, 12, 18);
+    color: lightgray;
 }
 
 p {
@@ -19,12 +21,12 @@ div {
     text-align: center;
 }
 
-    div .head-text {
+    div.head-text {
     }
 
-    div .head-title {
+    div.head-title {
     }
 
-    div .text-info {
-        width: 50%;
+    div.text-info {
+     
     }
