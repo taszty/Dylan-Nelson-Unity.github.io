@@ -3,7 +3,7 @@ head {
 }
 
 body{
-
+    width: 800px;
 }
 
 p {
@@ -31,5 +31,5 @@ div .head-title {
 }
 
 div .text-info {
-    width: 800px;
+    
 }
