@@ -1,37 +1,30 @@
 
 head {
-
 }
 
 body {
     text-align: center;
-    width: 800px;
 }
 
 p {
-
 }
 
 h1 {
-
 }
 
 h2 {
-
 }
 
 div {
-
+    text-align: center;
 }
 
-.head-text {
+    div #head-text {
+    }
 
-}
+    div #head-title {
+    }
 
-.head-title {
-
-}
-
-.text-info {
-    
-}
+    div#text-info {
+        width: 50%;
+    }
