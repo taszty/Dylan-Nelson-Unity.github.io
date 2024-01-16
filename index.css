@@ -1,8 +1,10 @@
+
 head {
 
 }
 
 body {
+    text-align: center;
     width: 800px;
 }
 
@@ -22,14 +24,14 @@ div {
 
 }
 
-div .head-text {
+.head-text {
 
 }
 
-div .head-title {
+.head-title {
 
 }
 
-div .text-info {
+.text-info {
     
 }
