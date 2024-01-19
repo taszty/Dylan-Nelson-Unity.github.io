@@ -46,3 +46,7 @@ div {
         div.text-info p {
             font-size: 20px;
         }
+
+ul {
+    width: 40%;
+}
