@@ -12,15 +12,6 @@ body {
     font-family: Nunito;
 }
 
-p {
-}
-
-h1 {
-}
-
-h2 {
-}
-
 div {
     text-align: center;
 }
@@ -48,5 +39,5 @@ div {
         }
 
 ul {
-    width: 40%;
+    text-decoration: none;
 }
