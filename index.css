@@ -29,6 +29,11 @@ div.text-info p {
     font-size: 20px;
 }
 
+div.btns {
+    position: absolute;
+    
+}
+
 /* This list is for the learning objectives of the unit */
 ul {
     list-style: none;
