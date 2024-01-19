@@ -12,32 +12,24 @@ body {
     font-family: Nunito;
 }
 
-div {
-    text-align: center;
+/* This is for the info div itself */
+div.text-info {
+    position: absolute;
+    left: 22%;
+    right: 22%;
 }
 
-    div.head-text {
-    }
+/* This is for the info div contents (description at bottom of page) */
+div.text-info h2 {
+    font-weight: bold;
+    font-size: 28px;
+}
 
-    div.head-title {
-    }
+div.text-info p {
+    font-size: 20px;
+}
 
-    /* This is for the div itself*/
-    div.text-info {
-        position: absolute;
-        left: 22%;
-        right: 22%;
-    }
-        /*This is for the div contents*/
-        div.text-info h2 {
-            font-weight: bold;
-            font-size: 28px;
-        }
-
-        div.text-info p {
-            font-size: 20px;
-        }
-
+/* This list is for the learning objectives of the unit */
 ul {
     text-decoration: none;
 }
