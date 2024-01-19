@@ -1,6 +1,9 @@
 // select the button and the div
-  const button = document.getElementById('u1p1');
-  const div = document.getElementById('body-text');
+  var button = 
+  document.getElementById('u1p1');
+  button.addEventListener("click", changeContent);
+
+  var div = document.getElementById('body-text');
 
   // define the function to change the HTML content
   function changeContent() {
