@@ -48,7 +48,7 @@
           '</ul>'+
       '</div>'+
       '<div class="btns">'+
-        '<button onclick = "btn-u1p1()">View Unit 1 Prototype 1</button>'+
+        '<button id="u1p1">View Unit 1 Prototype 1</button>'+
       '</div>'
       /* Reload the page after updating the html */
       location.reload();
