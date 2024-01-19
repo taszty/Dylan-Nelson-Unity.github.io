@@ -31,6 +31,8 @@ div.text-info p {
 
 div.btns {
     position: absolute;
+     left: 22%;
+    right: 22%;
 }
 
 /* This list is for the learning objectives of the unit */
