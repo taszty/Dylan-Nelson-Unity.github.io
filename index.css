@@ -12,6 +12,10 @@ body {
     font-family: Nunito;
 }
 
+div {
+    display: list-item;
+}
+
 /* This is for the info div itself */
 div.text-info {
     position: absolute;
