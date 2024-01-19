@@ -13,7 +13,7 @@ body {
 }
 
 div {
-    display: list-item;
+    display: grid;
 }
 
 /* This is for the info div itself */
