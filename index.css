@@ -31,5 +31,5 @@ div.text-info p {
 
 /* This list is for the learning objectives of the unit */
 ul {
-    text-decoration: none;
+    list-style: none;
 }
