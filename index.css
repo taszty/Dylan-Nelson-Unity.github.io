@@ -6,7 +6,9 @@
 }
 
 body {
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: rgb(11, 12, 18);
     color: lightgray;
     font-family: Nunito;
@@ -14,9 +16,7 @@ body {
 
 /* This is for the info div itself */
 div.text-info {
-    position: absolute;
-    left: 22%;
-    right: 22%;
+    
 }
 
 /* This is for the info div contents (description at bottom of page) */
@@ -30,9 +30,7 @@ div.text-info p {
 }
 
 div.btns {
-    position: absolute;
-     left: 22%;
-    right: 22%;
+    
 }
 
 /* This list is for the learning objectives of the unit */
